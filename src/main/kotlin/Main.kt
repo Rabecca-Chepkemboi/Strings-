@@ -1,8 +1,7 @@
 fun main(){
     val institution = "akirachix"
-    println(institution[0])
-    println(institution[2])
-    println(institution[3])
+    println(institution[0]+""+institution[2]+""+institution[3])
+
 
     println(printfullname("Rabecca" , 24))
     putlength("I love tech")
